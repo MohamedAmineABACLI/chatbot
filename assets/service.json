@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mypocketadvisor-8ee26",
+  "private_key_id": "1eb1bcd93f51a0cf86efb274d2688037a0bf9579",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDH3Ur5Y5mOpoac\n6lSMdt0k1K8CwLq47fIDqZbuGg1Gvh/XWLZuMGpGgdRzI3DCIgjjQFSNRvMXOebL\nMNaGt5klVINLyXMYUpjRF8IC+C5IlNAj+ZirESEx3u0aAnYIMx9T3OTmSxltdamC\nBwHyedsUQolZXdw2IER9dvGE3NIjtiQHoWCDh2X0Tga1mbrYOnl27TjO0Cszd6tF\nvOj4QiuhKMXwK3Bt1mV9FZY2R9Mf4uzhBX3gNjKGdnSoHrOiufhKq3Ghv9ak4mJ0\n4gIKFnW9G8cysokdSTCaQpZ5TvzZVHpeAAU1NmkjKYDD4WEjEkc2B5AXHIxBZmFl\nWWNIxqL9AgMBAAECggEAAWyteB/NKpwCk2O9g91zPg+EPEMCg3iyQHOKxL3oIIpJ\ne14eDsE4snjXwXiN3L8Hk9qh+IizJYXmWXDZAUFAai+zIaXR7YWQTNRVL+Ss81TR\niL5UdgOtPcf6UKZ6EAB0Y9GFA7K/HBgr7nRvOHOojzIvixhonIMJ67Ws4Fipr6hZ\n561yPpFYjIH/z1O1qPzCj+YNltNlrPEA0Wvlh8RGj79wzTQFoQn0nlJ6b8s2FjPb\nWGzraLsuCEPuVN5Rleq2I6OgvXCeKJWJbcxeE1rjxylKDnplf5xSzBraqkaI0hGG\nE17AethALA1BvViJmBes3NR1PVnzNDfq04vRD8fLUQKBgQDn0+pWd/m9M3jSqKyx\nD8G/ZPZtcScXKcqVF2fmgzTNGr+4DO9CgwY+i39lkt8pHwEEIdaXLOXJLtw797mf\ntPLdR0UjVsrjrjG+1DcSfDwcMBSOpIBwsjDP4S+bQFqy+kSv7Uj12bJt0QUQrr32\nOCudaA6z/KRxW0Bdj7QOApgNZwKBgQDctDE8dT85ZY5kSGDtY8P+4p3NzqCFmlrE\neLf9SHZLBqcb5+YbEUhNRtjCBtwQQwtxe5EnUXBEYQATOiWe4exXl/zfXfFFm8JK\nmVmmY6wO3cxWpJmg8I0xekzlaX/d4S/dMWslYPYHFyTq4XhGxDUPGXz2ZHlDHmjK\npPF7vJQp+wKBgQDf0bg4PWLvKQeoktMPq3/KMka8yPcNpPqCUPOuGNTchMu+fTZu\nR6O6tOGNhmxP/i/z9luA3wcG4mgcuYIMUB3+RzXX9Y6ynNZIQAjfnvRF3qGqSeX7\nZ/46ZVWaFVq722Z/V58ORVzAK4IxZhPe6MIrGXDAktWM36XX7srOj/CPVwKBgEdF\nuZC4nE5AyZcA+Kwwx56MOEG6NIRwsFc6VNBqkijwYQ7V+K1NC3hJJL6j0HU/8XYY\nXWvBFOxAFvIemP+SHey7nGHVyJCeGERW+WiOT4YNgmuIhERA6pfL0wFS7IQOsJJR\n3zQW99yaUMW5Qko4GpphtMUs9SwDqfunAIThBUf5AoGBAKtsEBGQFV0D/tY668Mo\n7LjXTZQ7K9BGYbaQmujvQR3YSkTDemSkhof4MCKe6M+8F50zxXly1lPtIjS/87ew\n0tqf3Kn8rYozZUCoKxCR9Hj59atQIDX7IWqmjqAfN8m72UD4ku0VLwoJ5JqQeuwX\nXBGTqRImkt/xk+xvrqJOIdqq\n-----END PRIVATE KEY-----\n",
+  "client_email": "mypocketadvisor@mypocketadvisor-8ee26.iam.gserviceaccount.com",
+  "client_id": "105726408309184684364",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mypocketadvisor%40mypocketadvisor-8ee26.iam.gserviceaccount.com"
+}
